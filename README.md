@@ -1,1 +1,1 @@
-# Pytorch-Study
+# PyTorch-Study
